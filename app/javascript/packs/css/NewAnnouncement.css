@@ -1,0 +1,32 @@
+#form_content_box
+{
+    margin-top: 20px;
+}
+
+#newannouncement_box
+{
+    text-align: center;
+}
+
+#newannouncement_box > form
+{
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+}
+
+#newannouncement_box input
+{
+    width: 300px;
+}
+
+#newannouncement_box textarea
+{
+    width: 314px;
+    height: 100px;
+}
+
+#newannouncement_form_submit
+{
+    margin-top: 20px;
+}

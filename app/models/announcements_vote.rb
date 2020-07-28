@@ -1,0 +1,2 @@
+class AnnouncementsVote < ApplicationRecord
+end

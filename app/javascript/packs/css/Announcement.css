@@ -1,0 +1,38 @@
+#announcement_box
+{
+    text-align: center;
+}
+
+.announcement_comment
+{
+    border-top: 1px solid #CCCCCC;
+    padding: 10px 0px;
+}
+
+#announcement_comments_box
+{
+    margin: 0px auto;
+    text-align: left;
+    width: 500px;
+}
+
+#announcement_comments_box > h2
+{
+    text-align: center;
+}
+
+#announcement_score_box
+{
+    margin-right: 20px;
+}
+
+#comment
+{
+    width: 300px;
+    height: 75px;
+}
+
+#vote_button
+{
+    margin-left: 10px;
+}

@@ -1,0 +1,35 @@
+body
+{
+    font-family: sans-serif;
+}
+
+#announcements_button
+{
+    margin-left: 20px;
+}
+
+.button
+{
+    background-color: rgb(16, 181, 93);
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+
+#buttons_box
+{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#buttons_box > h1
+{
+    color: rgb(16, 129, 181);
+}
+
+#create_announcement_button
+{
+    margin-left: 20px;
+}

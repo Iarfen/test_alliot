@@ -1,0 +1,20 @@
+#login_box
+{
+    margin-top: 150px;
+    text-align: center;
+}
+
+#login_box > h1
+{
+    color: rgb(16, 129, 181);
+}
+
+#login_email
+{
+    margin-right: 10px;
+}
+
+#login_password
+{
+    margin-right: 10px;
+}
